@@ -15,7 +15,7 @@ app.use(cors());
 // Option 2: Allow Custom Origins
 // app.use(
 //   cors({
-//     origin: 'http://localhost:3000',
+//     origin: 'https://bookstore-mern-vhrm.onrender.com:3000',
 //     methods: ['GET', 'POST', 'PUT', 'DELETE'],
 //     allowedHeaders: ['Content-Type'],
 //   })
